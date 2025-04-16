@@ -1,11 +1,5 @@
 
-
-Out of the night that covers me,
-Black as the Pip from pole to pole,
-I thank whatever gods may be
-For my unconquerable soul.
-
-
-[Portfolio page goes here]
-[lin](https://www.linkedin.com/in/brianvivolo/)
-[mailto:brian.vivolo@gmail.com]
+_Out of the night that covers me,_</br></br>
+_Black as the Pit from pole to pole,_</br></br>
+_I thank whatever gods may be_</br></br>
+_For my unconquerable soul[__.__](https://www.linkedin.com/in/brianvivolo/)_
